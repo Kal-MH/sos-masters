@@ -769,3 +769,4 @@
 |saoh|[42-saoh](https://github.com/42-saoh)|
 |jjang|[junyeongjang](https://github.com/junyeongjang)| 
 |Minjune_|[minjune8506](https://github.com/minjune8506)| 
+|Mihyun Kal|[Kal-MH](https://github.com/Kal-MH)|
